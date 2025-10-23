@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Capstone Project",
+    "imageSrc": "projects/capstone.png",
+    "description": "Built an R-based ML workflow and Power BI dashboards analyzing 100K+ insurance quotes, boosting Allianz’s online conversions by 20%.",
+    "skills": ["R", "Power BI", "Machine Learning", "Data Cleaning", "Data Visualization"],
+    "source": "https://github.com/Akash-Kumar-Soralle/Insurance-Conversion-ML/tree/main/reports"
+  },
+  {
+    "title": "ETL and SQL Project",
+    "imageSrc": "projects/project.png",
+    "description": "Designed and implemented ETL pipelines using SQL Server and SSIS to automate data extraction, transformation, and loading for analytics reporting.",
+    "skills": ["SQL", "SSIS", "ETL", "Data Integration", "Automation"],
+    "source": "https://github.com/Akash-Kumar-Soralle/ETL"
+  },
+  {
+    "title": "DataCo Supply Chain Analysis & Dashboards",
+    "imageSrc": "projects/project3.png",
+    "description": "Built an interactive Power BI dashboard using advanced DAX to analyze sales trends, customer segments, and profit performance, enabling data-driven decision-making.",
+    "skills": ["Power BI", "DAX", "Data Modeling", "Analytics"],
+    "source": "https://github.com/Akash-Kumar-Soralle/DataCo-Supply-Chain-Analysis"
+  }
+]

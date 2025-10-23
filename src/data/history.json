@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Sr.Software Engineer",
+    "organisation": "Deloitte",
+    "startDate": "Aug, 2024",
+    "endDate": "May, 2025 ",
+    "experiences": ["Built Java Spring Boot microservices on Azure, automating ETL/ELT pipelines for business insights.", "Delivered scalable cloud-native apps improving performance, reliability, and cross-team collaboration."],
+    "imageSrc": "history/deloitte.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Accenture",
+    "startDate": "Sep, 2022",
+    "endDate": "Jul, 2023",
+    "experiences": ["Developed RESTful APIs with Java and Spring Boot, integrated with Power BI for analytics.", "Enhanced CI/CD pipelines using Azure DevOps, improving deployment speed and efficiency."],
+    "imageSrc": "history/accenture.png"
+  },
+  {
+    "role": "Software Engineer",
+    "organisation": "Volvo",
+    "startDate": "Apr, 2021",
+    "endDate": "Aug, 2022",
+    "experiences": [
+      "Assisted in building Java and React modules for scalable enterprise applications and worked on libraries",
+      "Supported data integration and testing across SQL and API-driven environments and helped creating UI components"
+    ],
+    "imageSrc": "history/volvo.png"
+  }
+]
